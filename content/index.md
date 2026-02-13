@@ -7,6 +7,7 @@ title: pibbnet
 ---
 
 This is a cool little site that I'll post things about myself to.
+
 Feel free to read about [[about|myself]], my [[interests]], or any [[anchor|blogs]] I post!
 
 **I truly appreciate your time spent reading about me.**
