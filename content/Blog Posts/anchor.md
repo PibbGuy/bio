@@ -8,4 +8,4 @@ Or if you'd like, go back to the [[index|homepage]]!
 
 ---
 - [[lemonade|"Lemonade is good!"]] - 2/13/2026
-- Coming Soon!
+- [[intentions|"Intentions with my blogs."]] - 2/14/2026

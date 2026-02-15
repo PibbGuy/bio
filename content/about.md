@@ -24,7 +24,7 @@ Favorite Drink(s): Dr Pepper, [[lemonade|Lemonade]], Orange Juice, Pibb *(the dr
 
 Favorite Anime(s): KonoSuba, Kimi no koto ga Dai Dai Dai Dai Daisuki na Hyaku-nin no Kanojo, Cyberpunk Edgerunners, Jujutsu Kaisen, DanDaDan, Chainsaw Man. *(I'm very into anime.)*
 
-Favorite Game(s): That's... [[games|a long one]]
+Favorite Game(s): I typically play a mix of Shooters, MOBAs, Rhythm Games, and Factory Games. For more specific examples, check these [[games|games]] out!
 
 Interests: [[interests|Check them out for yourself :D]]
 

@@ -1,7 +1,7 @@
 ---
 title: Games I like
 ---
-Click [[index|here]] to return to the homepage!
+Click [[about|here]] to return to the About Page!
 
 ---
 ## Video Games!
@@ -39,7 +39,7 @@ Personal Comment: Library of Ruina is a Turn Based Strategy game created by Kore
 
 ![[CINEMA.png]]
 
-The story is told through visual novel-esque cutscenes and is fully voiced. (in korean only but you'll get used to it, the va's are incredible.) The difficulty is probably one of the main reasons to either pick up or put down the game, that being due to the difficulty spike being pretty much vertical with no hand holding. I highly recommend you check this one out if you love a good story and a great challenge with it.
+The story in a visual novel style and is fully voiced. (in korean only but you'll get used to it, the va's are incredible.) The difficulty is probably one of the main reasons to either pick up or put down the game, that being due to the difficulty spike being pretty much vertical with no hand holding. I highly recommend you check this one out if you love a good story and a great challenge with it.
 
 Link: https://store.steampowered.com/app/1256670/Library_Of_Ruina/
 
